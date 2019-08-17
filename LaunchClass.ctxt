@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LaunchClass
+comment0.text=\r\n\ Class\ Name\:\ LaunchClass\r\n\ Description\:\ LaunchClass\ class\ code\ for\ Assignment\ Part1\r\n\ Author\:\ Ricky\ Liu\r\n\ Version\:\ 1.0\r\n\ Last\ edited\:\ 28/04/2019\r\n
+comment1.params=sCustCode\ sCode\ sDate
+comment1.target=LaunchClass(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

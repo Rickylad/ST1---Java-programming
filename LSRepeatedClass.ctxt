@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=LSRepeatedClass
+comment1.params=sDate\ sCustCode\ sCode\ sSalesPerson
+comment1.target=LSRepeatedClass(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
